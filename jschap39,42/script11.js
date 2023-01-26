@@ -1,14 +1,4 @@
- <!DOCTYPE html>
- <html lang="en">
- <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
- </head>
- <body>
-    <script>
-        var totalMarks = 500;
+var totalMarks = 500;
 var course1 = parseInt(prompt("Please enter course 1 marks"));
 var course2 = parseInt(prompt("Please enter course 2 marks"));
 var course3 = parseInt(prompt("Please enter course 3 marks"));
@@ -42,6 +32,3 @@ switch(true) {
    alert("Fail");
 
 }
-    </script>
- </body>
- </html>
